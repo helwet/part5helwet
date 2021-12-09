@@ -1,6 +1,6 @@
 import axios from "axios";
-//const baseUrl = "https://fullstackopen-blogs001.herokuapp.com/api/blogs";
-const baseUrl = "https://ghmou.sse.codesandbox.io/api/blogs";
+const baseUrl = "https://fullstackopen-blogs001.herokuapp.com/api/blogs";
+//const baseUrl = "https://ghmou.sse.codesandbox.io/api/blogs";
 let token = null;
 
 //const getID = () => {};
